@@ -1,4 +1,4 @@
-package com.thegreatapi;
+package org.acme;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
